@@ -1,5 +1,6 @@
 {
   "name": "angular-directive-select-usstate",
+  "description": "An AngularJS directive to generate a dropdown for US States",
   "version": "0.2.1",
   "main": "src/index.js",
   "ignore": [
@@ -12,5 +13,13 @@
   },
   "devDependencies": {
     "angular-mocks": "~1.x.x"
+  },
+  "keywords": [
+    "states",
+    "US states"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:micahbule/angular-directive-select-usstate.git"
   }
 }
